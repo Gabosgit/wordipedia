@@ -1,0 +1,36 @@
+  _           _                   _   _                 
+ (_)_ __  ___| |_ _ __ _   _  ___| |_(_) ___  _ __  ___ 
+ | | '_ \/ __| __| '__| | | |/ __| __| |/ _ \| '_ \/ __|
+ | | | | \__ \ |_| |  | |_| | (__| |_| | (_) | | | \__ \
+ |_|_| |_|___/\__|_|   \__,_|\___|\__|_|\___/|_| |_|___/
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+1.  A "number of players" will be input.
+
+2.  All the players will be requested to input their "names".
+
+3.  All the players receive the same "random word" 
+    and "initial Wikipedia article" page.
+
+4.  There will be 1-3 rounds. In each round the players will
+    either choose to "stay" at that Wikipedia page, or to 
+    "skip" to another Wikipedia article:
+
+    - If the player chooses to "stay" (1) at that Wikipedia
+    article, they will wait until the other players are
+    finished.
+    - If the player chooses to "skip" (2) to the next round,
+    they will be able to choose an index number from a 
+    randomly generated list of Wikipedia articles.
+
+5.  The game will end when every player:
+    - Chooses to "stay"
+	OR
+    - Runs out of "skip" trials (2 in total)
+
+6.  The number of occurrences of the given random word will be
+    calculated across all player’s Wikipedia article of their
+    choice.
+
+7.  The winner with the highest occurrence of the given word
+    will then be announced!

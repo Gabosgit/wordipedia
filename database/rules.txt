@@ -1,0 +1,13 @@
+             _           
+  _ __ _   _| | ___  ___ 
+ | '__| | | | |/ _ \/ __|
+ | |  | |_| | |  __/\__ \
+ |_|   \__,_|_|\___||___/
+––––––––––––––––––––––––––
+
+* The player/s will only have up to two "skips"
+* There are only two possible inputs to choose:
+            to "skip" or to "stay"
+* After a "skip" the player must choose an index
+  from a randomly generated list of Wikipedia
+  article pages
